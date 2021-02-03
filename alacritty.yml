@@ -1,0 +1,7 @@
+shell:
+  program: /bin/zsh
+  args:
+    - -c
+    - exec bash
+font:
+  size: 8
